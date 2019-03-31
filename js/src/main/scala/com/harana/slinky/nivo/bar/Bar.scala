@@ -10,6 +10,7 @@ import scala.scalajs.js.annotation.JSImport
 import scala.scalajs.js.|
 
 @JSImport("react-nivo", "Bar")
+@js.native
 object ReactBar extends js.Object
 
 @react object Bar extends ExternalComponent {

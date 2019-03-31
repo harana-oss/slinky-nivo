@@ -10,6 +10,7 @@ import scala.scalajs.js.annotation.JSImport
 import scala.scalajs.js.|
 
 @JSImport("react-nivo", "BubbleHtml")
+@js.native
 object ReactBubbleHtml extends js.Object
 
 @react object BubbleHtml extends ExternalComponent {

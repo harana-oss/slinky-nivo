@@ -10,6 +10,7 @@ import scala.scalajs.js.annotation.JSImport
 import scala.scalajs.js.|
 
 @JSImport("react-nivo", "WaffleHtml")
+@js.native
 object ReactWaffleHtml extends js.Object
 
 @react object WaffleHtml extends ExternalComponent {

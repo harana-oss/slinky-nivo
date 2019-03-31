@@ -10,6 +10,7 @@ import scala.scalajs.js.annotation.JSImport
 import scala.scalajs.js.|
 
 @JSImport("react-nivo", "ScatterPlotCanvas")
+@js.native
 object ReactScatterPlotCanvas extends js.Object
 
 @react object ScatterPlotCanvas extends ExternalComponent {

@@ -9,6 +9,7 @@ import scala.scalajs.js.annotation.JSImport
 import scala.scalajs.js.|
 
 @JSImport("react-nivo", "Bullet")
+@js.native
 object ReactBullet extends js.Object
 
 @react object Bullet extends ExternalComponent {

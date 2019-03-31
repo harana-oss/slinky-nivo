@@ -8,6 +8,7 @@ import scala.scalajs.js.annotation.JSImport
 import scala.scalajs.js.|
 
 @JSImport("react-nivo", "Chord")
+@js.native
 object ReactChord extends js.Object
 
 @react object Chord extends ExternalComponent {

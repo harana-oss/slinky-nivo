@@ -8,6 +8,7 @@ import scala.scalajs.js.annotation.JSImport
 import scala.scalajs.js.|
 
 @JSImport("react-nivo", "Sankey")
+@js.native
 object ReactSankey extends js.Object
 
 @react object Sankey extends ExternalComponent {

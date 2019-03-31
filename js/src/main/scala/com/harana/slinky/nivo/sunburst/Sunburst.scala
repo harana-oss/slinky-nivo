@@ -8,6 +8,7 @@ import scala.scalajs.js.annotation.JSImport
 import scala.scalajs.js.|
 
 @JSImport("react-nivo", "Sunburst")
+@js.native
 object ReactSunburst extends js.Object
 
 @react object Sunburst extends ExternalComponent {

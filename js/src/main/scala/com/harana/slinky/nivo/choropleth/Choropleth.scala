@@ -10,6 +10,7 @@ import scala.scalajs.js.annotation.JSImport
 import scala.scalajs.js.|
 
 @JSImport("react-nivo", "Choropleth")
+@js.native
 object ReactChoropleth extends js.Object
 
 @react object Choropleth extends ExternalComponent {

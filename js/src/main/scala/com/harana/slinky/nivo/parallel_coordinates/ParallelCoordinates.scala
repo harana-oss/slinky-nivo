@@ -8,6 +8,7 @@ import scala.scalajs.js.annotation.JSImport
 import scala.scalajs.js.|
 
 @JSImport("react-nivo", "ParallelCoordinates")
+@js.native
 object ReactParallelCoordinates extends js.Object
 
 @react object ParallelCoordinates extends ExternalComponent {

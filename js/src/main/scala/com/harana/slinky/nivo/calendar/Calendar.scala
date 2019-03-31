@@ -10,6 +10,7 @@ import scala.scalajs.js.annotation.JSImport
 import scala.scalajs.js.|
 
 @JSImport("react-nivo", "Calendar")
+@js.native
 object ReactCalendar extends js.Object
 
 @react object Calendar extends ExternalComponent {

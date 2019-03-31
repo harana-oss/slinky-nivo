@@ -9,6 +9,7 @@ import scala.scalajs.js.annotation.JSImport
 import scala.scalajs.js.|
 
 @JSImport("react-nivo", "TreeMapCanvas")
+@js.native
 object ReactTreeMapCanvas extends js.Object
 
 @react object TreeMapCanvas extends ExternalComponent {

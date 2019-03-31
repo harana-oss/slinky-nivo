@@ -10,6 +10,7 @@ import scala.scalajs.js.annotation.JSImport
 import scala.scalajs.js.|
 
 @JSImport("react-nivo", "PieCanvas")
+@js.native
 object ReactPieCanvas extends js.Object
 
 @react object PieCanvas extends ExternalComponent {

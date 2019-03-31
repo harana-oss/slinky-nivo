@@ -8,6 +8,7 @@ import scala.scalajs.js.annotation.JSImport
 import scala.scalajs.js.|
 
 @JSImport("react-nivo", "Stream")
+@js.native
 object ReactStream extends js.Object
 
 @react object Stream extends ExternalComponent {

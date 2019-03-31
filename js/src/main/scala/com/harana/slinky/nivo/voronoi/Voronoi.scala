@@ -8,6 +8,7 @@ import scala.scalajs.js.annotation.JSImport
 import scala.scalajs.js.|
 
 @JSImport("react-nivo", "Voronoi")
+@js.native
 object ReactVoronoi extends js.Object
 
 @react object Voronoi extends ExternalComponent {

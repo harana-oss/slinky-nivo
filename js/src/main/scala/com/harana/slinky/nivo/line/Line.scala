@@ -9,6 +9,7 @@ import scala.scalajs.js.annotation.JSImport
 import scala.scalajs.js.|
 
 @JSImport("react-nivo", "Line")
+@js.native
 object ReactLine extends js.Object
 
 @react object Line extends ExternalComponent {

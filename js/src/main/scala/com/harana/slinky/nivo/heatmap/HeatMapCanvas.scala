@@ -10,6 +10,7 @@ import scala.scalajs.js.annotation.JSImport
 import scala.scalajs.js.|
 
 @JSImport("react-nivo", "HeatMapCanvas")
+@js.native
 object ReactHeatMapCanvas extends js.Object
 
 @react object HeatMapCanvas extends ExternalComponent {

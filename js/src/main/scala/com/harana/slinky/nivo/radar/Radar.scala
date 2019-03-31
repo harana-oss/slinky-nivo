@@ -9,6 +9,7 @@ import scala.scalajs.js.annotation.JSImport
 import scala.scalajs.js.|
 
 @JSImport("react-nivo", "Radar")
+@js.native
 object ReactRadar extends js.Object
 
 @react object Radar extends ExternalComponent {

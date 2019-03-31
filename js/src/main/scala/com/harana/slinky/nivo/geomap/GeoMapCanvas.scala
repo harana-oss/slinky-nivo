@@ -10,6 +10,7 @@ import scala.scalajs.js.annotation.JSImport
 import scala.scalajs.js.|
 
 @JSImport("react-nivo", "GeoMapCanvas")
+@js.native
 object ReactGeoMapCanvas extends js.Object
 
 @react object GeoMapCanvas extends ExternalComponent {

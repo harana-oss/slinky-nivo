@@ -8,6 +8,7 @@ import scala.scalajs.js.annotation.JSImport
 import scala.scalajs.js.|
 
 @JSImport("react-nivo", "BubbleCanvas")
+@js.native
 object ReactBubbleCanvas extends js.Object
 
 @react object BubbleCanvas extends ExternalComponent {
